@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm David!
 
-<!--
-**Davidj6636/Davidj6636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+- 🔭 Currently working on: Private Project
+- 🌱 Learning: C#
+- 👯 Looking to collaborate on: [Type of Projects]
+- 🤔 Seeking help with: [Topic]
+- 💬 Ask me about: [Your Expertise]
+- 📫 How to reach me: [Email/Social Media]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Interesting Fact]
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,git,github,vscode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 📈 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
